@@ -2,7 +2,7 @@
 #include <ArduinoJson.h>
 #include<Servo.h>
 StaticJsonDocument<200> doc;
-int a;
+int a; 
 Servo svo;
 void setup() {
   // put your setup code here, to run once:
